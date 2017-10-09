@@ -1,3 +1,14 @@
+## Challenges / Assignment:
+
+* Play with the styles. Try changing colors, font sizes, font families
+  * Done.
+* Add an additional field to the flashcard like subject, see if you can get this to display
+  * Attempted.
+* Add the ability to favorite or star a flashcard
+  * Just need to implement a template that does exactly this.
+* Add the ability to delete a card (Hint: Read up on the splice function in JavaScript)
+  * Need to do more research.
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
